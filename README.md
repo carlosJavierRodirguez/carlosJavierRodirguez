@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">
+ Carlos Javier Rodriguez Manchola
+</h1>
 
-<!--
-**carlosJavierRodirguez/carlosJavierRodirguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubicación-Palermo%2C%20Huila%20--%20Colombia-blue?style=flat&logo=google-maps" alt="Ubicación" />
+  <img src="https://komarev.com/ghpvc/?username=carlosjavier&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
+</p>
 
-Here are some ideas to get you started:
+💻 **Desarrollador Full-Stack** en formación, apasionado por crear soluciones eficientes y escalables.  
+🎯 **Técnico en Programación de Software** y estudiante de **Tecnólogo en Análisis y Desarrollo de Software** en el SENA.  
+📚 Certificado en **Scrum** y con conocimientos en **metodologías ágiles**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y Herramientas
+
+- **Backend:** Java con Spring Boot, PHP con Laravel  
+- **Frontend:** JavaScript, HTML, CSS, Bootstrap, SweetAlert  
+- **Móvil:** React Native con TypeScript  
+- **Bases de datos:** MySQL, PostgreSQL  
+- **Metodologías:** Scrum (certificado)  
+- **Otros:** Git, GitHub
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosjavier&show_icons=true&theme=tokyonight" alt="Carlos Javier's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjavier&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Javier-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-javier-rodriguez-manchola)
+
+---
+
+## ✨ Un poco más sobre mí
+
+💡 Siempre en busca de nuevos retos para mejorar mis habilidades.  
+📌 Interesado en desarrollo de aplicaciones web y móviles.  
+🚀 Con ganas de aportar en proyectos que generen impacto real.
+
