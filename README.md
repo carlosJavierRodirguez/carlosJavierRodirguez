@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubicación-Palermo%2C%20Huila%20--%20Colombia-blue?style=flat&logo=google-maps" alt="Ubicación" />
-  <img src="https://komarev.com/ghpvc/?username=carlosjavier&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=carlosJavierRodirguez&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 </p>
 
 💻 **Desarrollador Full-Stack** en formación, apasionado por crear soluciones eficientes y escalables.  
@@ -27,10 +27,9 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosjavier&show_icons=true&theme=tokyonight" alt="Carlos Javier's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjavier&layout=compact&theme=tokyonight&token=GH_TOKEN" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosJavierRodirguez&show_icons=true&theme=tokyonight" alt="Carlos Javier's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosJavierRodirguez&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
-
 
 ---
 
@@ -45,4 +44,3 @@
 💡 Siempre en busca de nuevos retos para mejorar mis habilidades.  
 📌 Interesado en desarrollo de aplicaciones web y móviles.  
 🚀 Con ganas de aportar en proyectos que generen impacto real.
-
