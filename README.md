@@ -28,8 +28,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosjavier&show_icons=true&theme=tokyonight" alt="Carlos Javier's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjavier&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjavier&layout=compact&theme=tokyonight&token=GH_TOKEN" />
 </p>
+
 
 ---
 
