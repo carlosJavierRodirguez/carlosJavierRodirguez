@@ -15,36 +15,54 @@
 
 ## 🚀 Tecnologías y Herramientas
 
-- **Backend:** Java con Spring Boot, PHP con Laravel  
-- **Frontend:** JavaScript, HTML, CSS, Bootstrap, SweetAlert  
-- **Móvil:** React Native con TypeScript  
-- **Bases de datos:** MySQL, PostgreSQL  
-- **Metodologías:** Scrum (certificado)  
-- **Otros:** Git, GitHub
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,postgres,figma,github,html,java,js,mysql,postman,react,ts,vscode,laravel,idea,php" />
+  </a>
+</p>
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
+<!--- stats & Trophy (start) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosJavierRodirguez&show_icons=true&theme=tokyonight" alt="Carlos Javier's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosJavierRodirguez&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=carlosJavierRodirguez&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosJavierRodirguez&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carlosJavierRodirguez&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=carlosJavierRodirguez&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
 ---
 
 ## 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Javier-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-javier-rodriguez-manchola)
+<!--icons and links-->
+<p align="center">
+ <a href="[https://www.linkedin.com/in/1010nishant/](https://www.linkedin.com/in/carlos-javier-rodriguez-manchola)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://discordapp.com/users/carlos1.50" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+</p>
 
 ---
 
