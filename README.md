@@ -29,7 +29,6 @@
   <img src="https://skillicons.dev/icons?i=react" height="50" />
   <img src="https://skillicons.dev/icons?i=ts" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="50" />
   <img src="https://skillicons.dev/icons?i=idea" height="50" />
   <img src="https://skillicons.dev/icons?i=php" height="50" />
   <img src="https://skillicons.dev/icons?i=spring" height="50" />
