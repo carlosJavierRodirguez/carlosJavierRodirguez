@@ -8,7 +8,7 @@
 </p>
 
 💻 **Desarrollador Full-Stack** en formación, apasionado por crear soluciones eficientes y escalables.  
-🎯 **Técnico en Programación de Software** y estudiante de **Tecnólogo en Análisis y Desarrollo de Software** en el SENA.  
+🎯 **Técnico en Programación de Software** y  **Tecnólogo en Análisis y Desarrollo de Software** en el SENA.  
 📚 Certificado en **Scrum** y con conocimientos en **metodologías ágiles**.  
 
 ---
