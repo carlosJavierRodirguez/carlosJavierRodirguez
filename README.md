@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=carlosJavierRodirguez&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
 </p>
 
-💻 **Desarrollador Full-Stack** en formación, apasionado por crear soluciones eficientes y escalables.  
+💻 **Desarrollador Full-Stack** , apasionado por crear soluciones eficientes y escalables.  
 🎯 **Técnico en Programación de Software** y  **Tecnólogo en Análisis y Desarrollo de Software** en el SENA.  
 📚 Certificado en **Scrum** y con conocimientos en **metodologías ágiles**.  
 
