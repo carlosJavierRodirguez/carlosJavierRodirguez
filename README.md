@@ -12,15 +12,12 @@
   </a>
 </p>
 
-Desarrollo aplicaciones web de extremo a extremo: diseño la interfaz, construyo la API y la despliego
-en contenedores. Actualmente trabajo en integración de facturación electrónica (DIAN) y en migración
-de plataformas legadas hacia arquitecturas modernas.
+Construyo aplicaciones web completas, desde la primera pantalla hasta el contenedor en producción. Diseño la interfaz, desarrollo la API que la alimenta y me ocupo del despliegue, de modo que puedo acompañar un producto desde la idea hasta que está en línea. Me muevo con la misma comodidad en proyectos nuevos y en plataformas legacy que necesitan modernizarse; en estas últimas suele estar lo más interesante, porque hay que entender código ajeno y mejorarlo sin romper lo que ya funciona.
 
 - 🎓 Tecnólogo en Análisis y Desarrollo de Software y Técnico en Programación de Software (SENA)
 - 📋 Certificado en Scrum
 - 🌎 Abierto a trabajo remoto o reubicación
 
-<br>
 
 ## 🛠️ Stack
 
