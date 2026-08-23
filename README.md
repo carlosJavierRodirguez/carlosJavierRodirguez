@@ -1,4 +1,4 @@
-<h1 align="center">Carlos Javier Rodríguez Manchola</h1>
+<h1 align="center">Carlos Javier Rodriguez Manchola</h1>
 
 <p align="center">
   <strong>Desarrollador Full-Stack</strong> · Java / Spring Boot · PHP · Angular · APIs REST · Docker
