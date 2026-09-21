@@ -23,7 +23,7 @@ Construyo aplicaciones web completas, desde la primera pantalla hasta el contene
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,react,js,html,css,bootstrap&perline=6" height="45" alt="Angular, React, JavaScript, HTML, CSS, Bootstrap" />
+<img src="https://skillicons.dev/icons?i=angular,react,js,html,css,bootstrap&perline=6" height="45" alt="React, JavaScript, HTML, CSS, Bootstrap" />
 
 **Backend**
 
