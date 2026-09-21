@@ -1,7 +1,7 @@
 <h1 align="center">Carlos Javier Rodriguez Manchola</h1>
 
 <p align="center">
-  <strong>Desarrollador Full-Stack</strong> · Java / Spring Boot · PHP · Angular · APIs REST · Docker
+  <strong>Desarrollador Full-Stack</strong> · Java / Spring Boot · PHP · APIs REST · Nex.js · Docker/Postman
 </p>
 
 <p align="center">
