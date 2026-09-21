@@ -1,7 +1,7 @@
 <h1 align="center">Carlos Javier Rodriguez Manchola</h1>
 
 <p align="center">
-  <strong>Desarrollador Full-Stack</strong> · Java / Spring Boot · PHP · APIs REST · Nex.js · Docker/Postman
+  <strong>Desarrollador Full-Stack</strong> · Java / Spring Boot · PHP · APIs REST · Next.js · Docker/Postman
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Construyo aplicaciones web completas, desde la primera pantalla hasta el contene
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=angular,react,js,html,css,bootstrap&perline=6" height="45" alt="React, JavaScript, HTML, CSS, Bootstrap" />
+<img src="https://skillicons.dev/icons?i=next,react,js,html,css,bootstrap&perline=6" height="45" alt="Next,React, JavaScript, HTML, CSS, Bootstrap" />
 
 **Backend**
 
@@ -35,7 +35,7 @@ Construyo aplicaciones web completas, desde la primera pantalla hasta el contene
 
 **DevOps y herramientas**
 
-<img src="https://skillicons.dev/icons?i=docker,git,gitlab,github,postman,figma,linux&perline=7" height="45" alt="Docker, Git, GitLab, GitHub, Postman, Figma, Linux" />
+<img src="https://skillicons.dev/icons?i=docker,git,gitlab,github,postman,figma,linux&perline=8" height="45" alt="Docker, Git, GitLab, GitHub, Postman, Figma, Linux" />
 
 <sub>También: Podman, Vercel, metodologías ágiles.</sub>
 
